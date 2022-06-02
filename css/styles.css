@@ -83,3 +83,12 @@ hr {
   height: 10px;
   color: red;
 }
+
+#profilePic {
+  height: 20%;
+  margin: auto 0 30px 0;
+}
+
+.main-font {
+  font-family: "Merienda", cursive;
+}
